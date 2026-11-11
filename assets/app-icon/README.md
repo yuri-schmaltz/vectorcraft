@@ -1,8 +1,8 @@
 # VectorCraft app icon
 
-**Creature:** a regal engraved dragon, VectorCraft's mascot.
+**Motif:** an isometric faceted pen nib and bezier tangent control nodes in flame orange.
 
-**Style:** an engraving-style portrait in the Crafting Apps owl template (the FilmCraft owl): a tight
+**Style:** SolidCraft geometric style: an isometric 3D faceted solid with precision cutout gaps (36 pt) and directional linear gradients.
 head-and-shoulders portrait on a full-bleed field, no frame or roundel, with the body running off the tile.
 
 **Palette** (exactly three colours):
